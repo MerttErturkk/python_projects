@@ -1,0 +1,46 @@
+BoxLayoutExample:
+
+<BoxLayoutExample>:
+    orientation:"vertical"
+    Label:
+        text: "SAMPLE TEXT"
+        
+    Button:
+        text: "A"
+        height:"60dp"
+        size_hint:1,None
+        
+    Button:
+        text: "B"
+        # size: "200dp","40dp"
+        height:"60dp"
+        size_hint:1,None
+    Button:
+        text:"C"
+        
+        size_hint:.3,None
+        height:"60dp"
+        
+        # x, center_x, right
+        # y, center_y, top
+        pos_hint: {"center_x":0.5}
+
+
+<MainWidget>:
+    Button:
+        text: "A"
+        size: "200dp","40dp"
+        pos: "100dp","20dp",
+        
+
+    Button:
+        text: "B"
+        size: "200dp","40dp"
+        pos: "310dp","20dp"
+        
+        
+    Label:
+        text: "Hello"
+        size: "200dp","40dp"
+        pos: "100dp","500dp"
+        color: 1,0,0, .5
