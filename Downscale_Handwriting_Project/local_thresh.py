@@ -9,7 +9,7 @@ from skimage.transform import rescale
 """
 This code is going to reduce 19 MB of pictures into 1 MB of thresholded binary images
 
-Pictures are taken from me, They are the notes i took while i was studying SQL queries, 
+Pictures are taken by me, They are the notes i took while i was studying SQL queries, 
 PDF file that i included can be useful for whomever interested.
 
 """
