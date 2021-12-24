@@ -5,7 +5,7 @@ Created on Sat Sep 18 11:56:36 2021
 @author: mertt
 """
 
-with open("steam.txt",encoding = "utf8") as text:
+with open("profile_source.txt",encoding = "utf8") as text:
     names = []
     temp = ""
     for line in text:

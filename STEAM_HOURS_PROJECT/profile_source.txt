@@ -9,7 +9,7 @@
 <link href="https://community.akamai.steamstatic.com/public/shared/css/buttons.css?v=n-eRNszNIRMH&amp;l=turkish" rel="stylesheet" type="text/css">
 <link href="https://community.akamai.steamstatic.com/public/shared/css/shared_global.css?v=aQFe0tVF2NIc&amp;l=turkish" rel="stylesheet" type="text/css">
 <link href="https://community.akamai.steamstatic.com/public/css/globalv2.css?v=yNT7WtfAb_DV&amp;l=turkish" rel="stylesheet" type="text/css">
-<link href="https://community.akamai.steamstatic.com/public/css/skin_1/profilev2.css?v=G-1rgfugAgSq&amp;l=turkish" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/skin_1/profilev2.css?v=EY8gEgsoA5gS&amp;l=turkish" rel="stylesheet" type="text/css">
 <link href="https://community.akamai.steamstatic.com/public/css/skin_1/profile_sharedfiles.css?v=4ahV2Ncu7oVq&amp;l=turkish" rel="stylesheet" type="text/css">
 <link href="https://community.akamai.steamstatic.com/public/css/skin_1/profile_games_list.css?v=Xs_Pfvx1Xbwo&amp;l=turkish" rel="stylesheet" type="text/css">
 <link href="https://community.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=Yt7tFpRVv84m&amp;l=turkish" rel="stylesheet" type="text/css">
@@ -83,7 +83,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 	<div class="responsive_page_content">
 
 		<script type="text/javascript">
-	g_sessionID = "c9a1617f328a57efeddf2c74";
+	g_sessionID = "c020c70b7c6f73a2f88527da";
 	g_steamID = "76561198085262482";
 	g_strLanguage = "turkish";
 	g_SNR = '2_100300_1452_';
@@ -143,7 +143,7 @@ if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.writ
 
 	<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
 		<div class="responsive_tab_control">
-						<select class="responsive_tab_select" id="responsive_tab_select61c05812ba367">
+						<select class="responsive_tab_select" id="responsive_tab_select61c5a03db5fac">
 									<option value="https://steamcommunity.com/id/thegattfather/games/?tab=recent">
 						En Son Oynananlar					</option>
 									<option value="https://steamcommunity.com/id/thegattfather/games/?tab=all" selected="">
@@ -549,7 +549,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_218620"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/218620">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_218620_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/218620/capsule_184x69.jpg" id="delayedimage_game_logo_218620_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -585,7 +585,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_321040"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/321040">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_321040_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/321040/capsule_184x69.jpg" id="delayedimage_game_logo_321040_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -621,7 +621,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_310560"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/310560">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_310560_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/310560/capsule_184x69.jpg" id="delayedimage_game_logo_310560_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -657,7 +657,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_219990"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/219990">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_219990_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/219990/capsule_184x69.jpg" id="delayedimage_game_logo_219990_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -693,7 +693,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_221100"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/221100">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_221100_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_184x69.jpg" id="delayedimage_game_logo_221100_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -725,7 +725,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_55230"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/55230">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_55230_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/55230/capsule_184x69.jpg" id="delayedimage_game_logo_55230_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -761,7 +761,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_291550"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/291550">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_291550_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/291550/capsule_184x69.jpg" id="delayedimage_game_logo_291550_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -797,7 +797,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_49520"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/49520">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_49520_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/49520/capsule_184x69.jpg" id="delayedimage_game_logo_49520_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -833,7 +833,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_8870"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/8870">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_8870_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/8870/capsule_184x69.jpg" id="delayedimage_game_logo_8870_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -869,7 +869,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_50130"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/50130">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_50130_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/50130/capsule_184x69.jpg" id="delayedimage_game_logo_50130_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -905,7 +905,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_24240"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/24240">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_24240_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/24240/capsule_184x69.jpg" id="delayedimage_game_logo_24240_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -941,7 +941,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_9480"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/9480">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_9480_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/9480/capsule_184x69.jpg" id="delayedimage_game_logo_9480_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -973,7 +973,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_72850"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/72850">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_72850_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/72850/capsule_184x69.jpg" id="delayedimage_game_logo_72850_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -1009,7 +1009,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_945360"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/945360">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_945360_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/945360/capsule_184x69.jpg" id="delayedimage_game_logo_945360_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -1045,7 +1045,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_220"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/220">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_220_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/220/capsule_184x69.jpg" id="delayedimage_game_logo_220_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -1081,7 +1081,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_20920"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/20920">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_20920_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/20920/capsule_184x69.jpg" id="delayedimage_game_logo_20920_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -1117,7 +1117,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_241560"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/241560">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_241560_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/241560/capsule_184x69.jpg" id="delayedimage_game_logo_241560_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -1149,7 +1149,7 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 
 </div><div class="gameListRow" id="game_550"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/550">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_550_0">
+		<img class="game_capsule" src="https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_184x69.jpg" id="delayedimage_game_logo_550_0">
 	</a>
 </div>
 <div class="gameListRowItem">
@@ -2711,42 +2711,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		</div>
 	</div>
 
-</div><div class="gameListRow" id="game_400"><div class="gameListRowLogo ">
-	<a href="https://steamcommunity.com/app/400">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_400_0">
-	</a>
-</div>
-<div class="gameListRowItem">
-	
-	<div class="gameListRowItemTop">
-		<div class="gameListRowItemTopPrimary">
-			<div class="gameListRowItemName ellipsis ">Portal</div>
-			<h5 class="ellipsis hours_played">kayıtlarda 3.7 saat</h5>
-		</div>
-		<div class="gameListRowItemTopSecondary">
-    		
-		</div>
-	</div>
-	<div class="bottom_controls">
-		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_400', 'left' );">
-			<div class="menu_ico">
-				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
-			</div>
-			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-		</div>
-				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_400', 'right' );">
-		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
-		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-	</div>
-  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/400">
-    <div class="menu_ico">
-    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
-</div>
-İnceleme</a>
-
-		</div>
-	</div>
-
 </div><div class="gameListRow" id="game_22380"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/22380">
 		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_22380_0">
@@ -2775,6 +2739,42 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
 	</div>
   <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/22380">
+    <div class="menu_ico">
+    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
+</div>
+İnceleme</a>
+
+		</div>
+	</div>
+
+</div><div class="gameListRow" id="game_400"><div class="gameListRowLogo ">
+	<a href="https://steamcommunity.com/app/400">
+		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_400_0">
+	</a>
+</div>
+<div class="gameListRowItem">
+	
+	<div class="gameListRowItemTop">
+		<div class="gameListRowItemTopPrimary">
+			<div class="gameListRowItemName ellipsis ">Portal</div>
+			<h5 class="ellipsis hours_played">kayıtlarda 3.7 saat</h5>
+		</div>
+		<div class="gameListRowItemTopSecondary">
+    		
+		</div>
+	</div>
+	<div class="bottom_controls">
+		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_400', 'left' );">
+			<div class="menu_ico">
+				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
+			</div>
+			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+		</div>
+				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_400', 'right' );">
+		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
+		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+	</div>
+  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/400">
     <div class="menu_ico">
     <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
 </div>
@@ -3019,38 +3019,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		</div>
 	</div>
 
-</div><div class="gameListRow" id="game_391540"><div class="gameListRowLogo ">
-	<a href="https://steamcommunity.com/app/391540">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_391540_0">
-	</a>
-</div>
-<div class="gameListRowItem">
-	
-	<div class="gameListRowItemTop">
-		<div class="gameListRowItemTopPrimary">
-			<div class="gameListRowItemName ellipsis ">Undertale</div>
-			<h5 class="ellipsis hours_played">kayıtlarda 1.8 saat</h5>
-		</div>
-		<div class="gameListRowItemTopSecondary">
-    		
-		</div>
-	</div>
-	<div class="bottom_controls">
-		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_391540', 'left' );">
-			<div class="menu_ico">
-				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
-			</div>
-			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-		</div>
-			  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/391540">
-    <div class="menu_ico">
-    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
-</div>
-İnceleme</a>
-
-		</div>
-	</div>
-
 </div><div class="gameListRow" id="game_113200"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/113200">
 		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_113200_0">
@@ -3079,6 +3047,38 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
 	</div>
   <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/113200">
+    <div class="menu_ico">
+    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
+</div>
+İnceleme</a>
+
+		</div>
+	</div>
+
+</div><div class="gameListRow" id="game_391540"><div class="gameListRowLogo ">
+	<a href="https://steamcommunity.com/app/391540">
+		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_391540_0">
+	</a>
+</div>
+<div class="gameListRowItem">
+	
+	<div class="gameListRowItemTop">
+		<div class="gameListRowItemTopPrimary">
+			<div class="gameListRowItemName ellipsis ">Undertale</div>
+			<h5 class="ellipsis hours_played">kayıtlarda 1.8 saat</h5>
+		</div>
+		<div class="gameListRowItemTopSecondary">
+    		
+		</div>
+	</div>
+	<div class="bottom_controls">
+		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_391540', 'left' );">
+			<div class="menu_ico">
+				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
+			</div>
+			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+		</div>
+			  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/391540">
     <div class="menu_ico">
     <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
 </div>
@@ -3287,6 +3287,42 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
 </div>
  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/570">
+    <div class="menu_ico">
+    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
+</div>
+İnceleme</a>
+
+		</div>
+	</div>
+
+</div><div class="gameListRow" id="game_288160"><div class="gameListRowLogo ">
+	<a href="https://steamcommunity.com/app/288160">
+		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_288160_0">
+	</a>
+</div>
+<div class="gameListRowItem">
+	
+	<div class="gameListRowItemTop">
+		<div class="gameListRowItemTopPrimary">
+			<div class="gameListRowItemName ellipsis ">The Room</div>
+			<h5 class="ellipsis hours_played">kayıtlarda 1.1 saat</h5>
+		</div>
+		<div class="gameListRowItemTopSecondary">
+    		
+		</div>
+	</div>
+	<div class="bottom_controls">
+		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_288160', 'left' );">
+			<div class="menu_ico">
+				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
+			</div>
+			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+		</div>
+				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_288160', 'right' );">
+		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
+		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+	</div>
+  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/288160">
     <div class="menu_ico">
     <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
 </div>
@@ -3539,42 +3575,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		</div>
 	</div>
 
-</div><div class="gameListRow" id="game_475150"><div class="gameListRowLogo ">
-	<a href="https://steamcommunity.com/app/475150">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_475150_0">
-	</a>
-</div>
-<div class="gameListRowItem">
-	
-	<div class="gameListRowItemTop">
-		<div class="gameListRowItemTopPrimary">
-			<div class="gameListRowItemName ellipsis ">Titan Quest Anniversary Edition</div>
-			<h5 class="ellipsis hours_played">kayıtlarda 0.3 saat</h5>
-		</div>
-		<div class="gameListRowItemTopSecondary">
-    		
-		</div>
-	</div>
-	<div class="bottom_controls">
-		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_475150', 'left' );">
-			<div class="menu_ico">
-				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
-			</div>
-			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-		</div>
-				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_475150', 'right' );">
-		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
-		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-	</div>
-  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/475150">
-    <div class="menu_ico">
-    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
-</div>
-İnceleme</a>
-
-		</div>
-	</div>
-
 </div><div class="gameListRow" id="game_1128810"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/1128810">
 		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_1128810_0">
@@ -3603,6 +3603,42 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
 	</div>
   <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/1128810">
+    <div class="menu_ico">
+    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
+</div>
+İnceleme</a>
+
+		</div>
+	</div>
+
+</div><div class="gameListRow" id="game_475150"><div class="gameListRowLogo ">
+	<a href="https://steamcommunity.com/app/475150">
+		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_475150_0">
+	</a>
+</div>
+<div class="gameListRowItem">
+	
+	<div class="gameListRowItemTop">
+		<div class="gameListRowItemTopPrimary">
+			<div class="gameListRowItemName ellipsis ">Titan Quest Anniversary Edition</div>
+			<h5 class="ellipsis hours_played">kayıtlarda 0.3 saat</h5>
+		</div>
+		<div class="gameListRowItemTopSecondary">
+    		
+		</div>
+	</div>
+	<div class="bottom_controls">
+		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_475150', 'left' );">
+			<div class="menu_ico">
+				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
+			</div>
+			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+		</div>
+				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_475150', 'right' );">
+		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
+		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+	</div>
+  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/475150">
     <div class="menu_ico">
     <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
 </div>
@@ -4199,6 +4235,42 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		</div>
 	</div>
 
+</div><div class="gameListRow" id="game_505230"><div class="gameListRowLogo ">
+	<a href="https://steamcommunity.com/app/505230">
+		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_505230_0">
+	</a>
+</div>
+<div class="gameListRowItem">
+	
+	<div class="gameListRowItemTop">
+		<div class="gameListRowItemTopPrimary">
+			<div class="gameListRowItemName ellipsis ">Pathologic 2</div>
+			<h5 class="ellipsis hours_played"></h5>
+		</div>
+		<div class="gameListRowItemTopSecondary">
+    		
+		</div>
+	</div>
+	<div class="bottom_controls">
+		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_505230', 'left' );">
+			<div class="menu_ico">
+				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
+			</div>
+			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+		</div>
+				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_505230', 'right' );">
+		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
+		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
+	</div>
+  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/505230">
+    <div class="menu_ico">
+    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
+</div>
+İnceleme</a>
+
+		</div>
+	</div>
+
 </div><div class="gameListRow" id="game_322420"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/322420">
 		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_322420_0">
@@ -4399,42 +4471,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 		</div>
 	</div>
 
-</div><div class="gameListRow" id="game_288160"><div class="gameListRowLogo ">
-	<a href="https://steamcommunity.com/app/288160">
-		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_288160_0">
-	</a>
-</div>
-<div class="gameListRowItem">
-	
-	<div class="gameListRowItemTop">
-		<div class="gameListRowItemTopPrimary">
-			<div class="gameListRowItemName ellipsis ">The Room</div>
-			<h5 class="ellipsis hours_played"></h5>
-		</div>
-		<div class="gameListRowItemTopSecondary">
-    		
-		</div>
-	</div>
-	<div class="bottom_controls">
-		<div class="pullup_item" onclick="ShowMenuCumulative( this, 'links_dropdown_288160', 'left' );">
-			<div class="menu_ico">
-				<img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_www.png" width="16" height="16" border="0">
-			</div>
-			Bağlantılar			<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-		</div>
-				<div class="pullup_item" onclick="ShowMenuCumulative( this, 'stats_dropdown_288160', 'right' );">
-		<div class="menu_ico"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_stats.png" width="16" height="16" border="0"></div>
-		İstatistiklere Bak<img src="https://community.akamai.steamstatic.com/public/images/header/btn_arrow_down.png" border="0" class="menuarrow">
-	</div>
-  <a class="pullup_item" href="https://store.steampowered.com/recommended/recommendgame/288160">
-    <div class="menu_ico">
-    <img src="https://community.akamai.steamstatic.com/public/images/skin_1/icon_rate.png" width="16" height="16" border="0">
-</div>
-İnceleme</a>
-
-		</div>
-	</div>
-
 </div><div class="gameListRow" id="game_425580"><div class="gameListRowLogo ">
 	<a href="https://steamcommunity.com/app/425580">
 		<img class="game_capsule" src="https://community.akamai.steamstatic.com/public/images/trans.gif" id="delayedimage_game_logo_425580_0">
@@ -4529,13 +4565,13 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 </div>
 
 <script language="javascript">
-			var rgGames = [{"appid":730,"name":"Counter-Strike: Global Offensive","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/730\/capsule_184x69.jpg","friendly_name":"CSGO","has_adult_content":1,"is_visible_in_steam_china":1,"app_type":1,"friendlyURL":"CSGO","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":true,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1,145","last_played":1630154617},{"appid":238960,"name":"Path of Exile","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/238960\/capsule_184x69.jpg","friendly_name":"PathofExile","has_adult_content":1,"app_type":1,"friendlyURL":"PathofExile","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"217","last_played":1620078824},{"appid":271590,"name":"Grand Theft Auto V","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":271590,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"111","last_played":1629411658},{"appid":440,"name":"Team Fortress 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/440\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":"TF2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":true,"leaderboards":true,"global_leaderboards":true},"hours_forever":"85","last_played":1584307210},{"appid":222880,"name":"Insurgency","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/222880\/capsule_184x69.jpg","app_type":1,"friendlyURL":222880,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"82","last_played":1597271818},{"appid":8930,"name":"Sid Meier's Civilization V","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8930\/capsule_184x69.jpg","app_type":1,"friendlyURL":"CivV","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"78","last_played":1617473352},{"appid":70,"name":"Half-Life","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/70\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"75","last_played":1633794291},{"appid":105600,"name":"Terraria","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/105600\/capsule_184x69.jpg","app_type":1,"friendlyURL":105600,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"73","last_played":1609525260},{"appid":12210,"name":"Grand Theft Auto IV: The Complete Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12210\/capsule_184x69.jpg","app_type":1,"friendlyURL":12210,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"46","last_played":1610834042},{"appid":632470,"name":"Disco Elysium","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/632470\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":632470,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"43","last_played":1601147377},{"appid":218620,"name":"PAYDAY 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/218620\/capsule_184x69.jpg","friendly_name":"PAYDAY2","app_type":1,"friendlyURL":"PAYDAY2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"38","last_played":1441462654},{"appid":321040,"name":"DiRT 3 Complete Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/321040\/capsule_184x69.jpg","app_type":1,"friendlyURL":321040,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"36","last_played":1606937420},{"appid":310560,"name":"DiRT Rally","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/310560\/capsule_184x69.jpg","app_type":1,"friendlyURL":310560,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"24","last_played":1607010731},{"appid":219990,"name":"Grim Dawn","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/219990\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":219990,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"23","last_played":1600108467},{"appid":221100,"name":"DayZ","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/221100\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"20","last_played":1637161852},{"appid":55230,"name":"Saints Row: The Third","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/55230\/capsule_184x69.jpg","friendly_name":"SaintsRowTheThird","has_adult_content":1,"app_type":1,"friendlyURL":"SaintsRowTheThird","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"20","last_played":1583092575},{"appid":291550,"name":"Brawlhalla","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/291550\/capsule_184x69.jpg","app_type":1,"friendlyURL":291550,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"17.8","last_played":1601666327},{"appid":49520,"name":"Borderlands 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/49520\/capsule_184x69.jpg","friendly_name":"Borderlands2","app_type":1,"friendlyURL":"Borderlands2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"16.0","last_played":1554229364},{"appid":8870,"name":"BioShock Infinite","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8870\/capsule_184x69.jpg","friendly_name":"BioShockInfinite","app_type":1,"friendlyURL":"BioShockInfinite","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"15.8","last_played":1602759233},{"appid":50130,"name":"Mafia II (Classic)","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/50130\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":"MafiaII","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"15.5","last_played":1439021568},{"appid":24240,"name":"PAYDAY: The Heist","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/24240\/capsule_184x69.jpg","friendly_name":"PAYDAYTheHeist","app_type":1,"friendlyURL":"PAYDAYTheHeist","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"15.5","last_played":1422459083},{"appid":9480,"name":"Saints Row 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/9480\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.8","last_played":1421920168},{"appid":72850,"name":"The Elder Scrolls V: Skyrim","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/72850\/capsule_184x69.jpg","friendly_name":"TheElderScrollsVSkyrim","has_adult_content":1,"app_type":1,"friendlyURL":"TheElderScrollsVSkyrim","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.6","last_played":1601473947},{"appid":945360,"name":"Among Us","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/945360\/capsule_184x69.jpg","app_type":1,"friendlyURL":945360,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.5","last_played":1633794355},{"appid":220,"name":"Half-Life 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/220\/capsule_184x69.jpg","app_type":1,"friendlyURL":"HL2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.1","last_played":1595344250},{"appid":20920,"name":"The Witcher 2: Assassins of Kings Enhanced Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/20920\/capsule_184x69.jpg","app_type":1,"friendlyURL":"TheWitcher2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"13.9","last_played":1578339375},{"appid":241560,"name":"The Crew","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/241560\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"13.9","last_played":1628195444},{"appid":550,"name":"Left 4 Dead 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/550\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":"L4D2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":true,"global_leaderboards":false},"hours_forever":"13.5","last_played":1512581612},{"appid":231200,"name":"Kentucky Route Zero","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/231200\/capsule_184x69.jpg","app_type":1,"friendlyURL":231200,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"13.4","last_played":1588448974},{"appid":620,"name":"Portal 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/620\/capsule_184x69.jpg","app_type":1,"friendlyURL":"Portal2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":true,"leaderboards":true,"global_leaderboards":true},"hours_forever":"12.8","last_played":1543586520},{"appid":206420,"name":"Saints Row IV","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/206420\/capsule_184x69.jpg","friendly_name":"SaintsRowIV","has_adult_content":1,"app_type":1,"friendlyURL":"SaintsRowIV","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"12.5","last_played":1431254086},{"appid":209000,"name":"Batman\u2122: Arkham Origins","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/209000\/capsule_184x69.jpg","app_type":1,"friendlyURL":209000,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"12.2","last_played":1434886221},{"appid":10,"name":"Counter-Strike","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/10\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"12.1","last_played":1633793795},{"appid":274170,"name":"Hotline Miami 2: Wrong Number","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/274170\/capsule_184x69.jpg","app_type":1,"friendlyURL":274170,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"11.8","last_played":1581175702},{"appid":44350,"name":"GRID 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/44350\/capsule_184x69.jpg","friendly_name":"GRID2","app_type":1,"friendlyURL":"GRID2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"11.8","last_played":1622055315},{"appid":24960,"name":"Battlefield: Bad Company\u2122 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/24960\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"11.5","last_played":1632241748},{"appid":7670,"name":"BioShock","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/7670\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"11.4","last_played":1550407547},{"appid":362890,"name":"Black Mesa","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/362890\/capsule_184x69.jpg","app_type":1,"friendlyURL":362890,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"10.6","last_played":1593277129},{"appid":250320,"name":"The Wolf Among Us","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/250320\/capsule_184x69.jpg","app_type":1,"friendlyURL":250320,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"10.5","last_played":1594041849},{"appid":35140,"name":"Batman: Arkham Asylum GOTY Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/35140\/capsule_184x69.jpg","app_type":1,"friendlyURL":35140,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"10.3","last_played":1433435643},{"appid":675260,"name":"Batman: The Enemy Within - The Telltale Series","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/675260\/capsule_184x69.jpg","app_type":1,"friendlyURL":675260,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.8","last_played":1631883239},{"appid":71230,"name":"Crazy Taxi","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/71230\/capsule_184x69.jpg","app_type":1,"friendlyURL":71230,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.6","last_played":1637963724},{"appid":200260,"name":"Batman: Arkham City GOTY","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/200260\/capsule_184x69.jpg","friendly_name":"BatmanArkhamCityGOTY","app_type":1,"friendlyURL":"BatmanArkhamCityGOTY","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.4","last_played":1434387736},{"appid":203160,"name":"Tomb Raider","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/203160\/capsule_184x69.jpg","friendly_name":"TombRaider","app_type":1,"friendlyURL":"TombRaider","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.3","last_played":1614006902},{"appid":287390,"name":"Metro: Last Light Redux","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/287390\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":287390,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.2","last_played":1500038848},{"appid":110800,"name":"L.A. Noire","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/110800\/capsule_184x69.jpg","friendly_name":"LANoireTheCompleteEdition","app_type":1,"friendlyURL":"LANoireTheCompleteEdition","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"8.5","last_played":1619180015},{"appid":498240,"name":"Batman - The Telltale Series","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/498240\/capsule_184x69.jpg","app_type":1,"friendlyURL":498240,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"8.3","last_played":1629320123},{"appid":282070,"name":"This War of Mine","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/282070\/capsule_184x69.jpg","app_type":1,"friendlyURL":282070,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"8.1","last_played":1617817386},{"appid":204100,"name":"Max Payne 3","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/204100\/capsule_184x69.jpg","friendly_name":"MaxPayne3","app_type":1,"friendlyURL":"MaxPayne3","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.9","last_played":1613386391},{"appid":286690,"name":"Metro 2033 Redux","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/286690\/capsule_184x69.jpg","app_type":1,"friendlyURL":286690,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.7","last_played":1499286996},{"appid":1586880,"name":"Essays on Empathy","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1586880\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":1586880,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.6","last_played":1631900089},{"appid":305620,"name":"The Long Dark","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/305620\/capsule_184x69.jpg","app_type":1,"friendlyURL":305620,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.5","last_played":1586547397},{"appid":1255980,"name":"Portal Reloaded","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1255980\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.2","last_played":1619362432},{"appid":205100,"name":"Dishonored","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/205100\/capsule_184x69.jpg","friendly_name":"Dishonored","app_type":1,"friendlyURL":"Dishonored","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"7.0","last_played":1453303829},{"appid":264200,"name":"One Finger Death Punch","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/264200\/capsule_184x69.jpg","app_type":1,"friendlyURL":264200,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"7.0","last_played":1434881357},{"appid":224540,"name":"Ace of Spades","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/224540\/capsule_184x69.jpg","friendly_name":"AceofSpades","app_type":1,"friendlyURL":"AceofSpades","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.0","last_played":1407702338},{"appid":12110,"name":"Grand Theft Auto: Vice City","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12110\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.9","last_played":1613499570},{"appid":221380,"name":"Age of Empires II (2013)","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/221380\/capsule_184x69.jpg","friendly_name":"AgeofEmpiresIIHDEdition","app_type":1,"friendlyURL":"AgeofEmpiresIIHDEdition","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.9","last_played":1511989210},{"appid":8850,"name":"BioShock 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8850\/capsule_184x69.jpg","app_type":1,"friendlyURL":8850,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.6","last_played":1519557616},{"appid":237930,"name":"Transistor","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/237930\/capsule_184x69.jpg","app_type":1,"friendlyURL":237930,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.5","last_played":1594199357},{"appid":301910,"name":"Saints Row: Gat out of Hell","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/301910\/capsule_184x69.jpg","app_type":1,"friendlyURL":301910,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.2","last_played":1424613677},{"appid":213670,"name":"South Park\u2122: The Stick of Truth\u2122","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/213670\/capsule_184x69.jpg","app_type":1,"friendlyURL":213670,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.2","last_played":1602275334},{"appid":464060,"name":"RUINER","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/464060\/capsule_184x69.jpg","app_type":1,"friendlyURL":464060,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.0","last_played":1602085112},{"appid":466300,"name":"Planescape: Torment: Enhanced Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/466300\/capsule_184x69.jpg","app_type":1,"friendlyURL":466300,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.8","last_played":1614513972},{"appid":589780,"name":"The Red Strings Club","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/589780\/capsule_184x69.jpg","app_type":1,"friendlyURL":589780,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.5","last_played":1604100391},{"appid":420,"name":"Half-Life 2: Episode Two","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/420\/capsule_184x69.jpg","app_type":1,"friendlyURL":"HL2:EP2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.5","last_played":1404681227},{"appid":380,"name":"Half-Life 2: Episode One","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/380\/capsule_184x69.jpg","app_type":1,"friendlyURL":"HL2:EP1","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.5","last_played":1405600596},{"appid":424840,"name":"Little Nightmares","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/424840\/capsule_184x69.jpg","app_type":1,"friendlyURL":424840,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.4","last_played":1629411344},{"appid":409720,"name":"BioShock 2 Remastered","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/409720\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":409720,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.3","last_played":1603576089},{"appid":80,"name":"Counter-Strike: Condition Zero","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/80\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.2","last_played":1588271260},{"appid":219150,"name":"Hotline Miami","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/219150\/capsule_184x69.jpg","friendly_name":"HotlineMiami","app_type":1,"friendlyURL":"HotlineMiami","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.1","last_played":1635618408},{"appid":400,"name":"Portal","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/400\/capsule_184x69.jpg","app_type":1,"friendlyURL":"Portal","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"3.7","last_played":1451495123},{"appid":22380,"name":"Fallout: New Vegas","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/22380\/capsule_184x69.jpg","app_type":1,"friendlyURL":"Fallout:NewVegas","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"3.7","last_played":1619807482},{"appid":274290,"name":"Gods Will Be Watching","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/274290\/capsule_184x69.jpg","app_type":1,"friendlyURL":274290,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"3.6","last_played":1605804516},{"appid":20900,"name":"The Witcher: Enhanced Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/20900\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.8","last_played":1594463990},{"appid":225840,"name":"Sven Co-op","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/225840\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.5","last_played":1613843339},{"appid":300,"name":"Day of Defeat: Source","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/300\/capsule_184x69.jpg","app_type":1,"friendlyURL":"DOD:S","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.2","last_played":1408702567},{"appid":50,"name":"Half-Life: Opposing Force","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/50\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.2","last_played":1586555707},{"appid":12360,"name":"FlatOut: Ultimate Carnage","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12360\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.1","last_played":1616444526},{"appid":638230,"name":"Journey","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/638230\/capsule_184x69.jpg","app_type":1,"friendlyURL":638230,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.8","last_played":1632257452},{"appid":391540,"name":"Undertale","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/391540\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.8","last_played":1625244327},{"appid":113200,"name":"The Binding of Isaac","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/113200\/capsule_184x69.jpg","app_type":1,"friendlyURL":"BindingOfIsaac","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.8","last_played":1604156209},{"appid":1285670,"name":"Post Void","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1285670\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":1285670,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"1.7","last_played":1635677464},{"appid":317400,"name":"Portal Stories: Mel","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/317400\/capsule_184x69.jpg","app_type":1,"friendlyURL":317400,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.6","last_played":1548164317},{"appid":17450,"name":"Dragon Age: Origins","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/17450\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.5","last_played":1413569887},{"appid":130,"name":"Half-Life: Blue Shift","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/130\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.4","last_played":1526644706},{"appid":350640,"name":"Sherlock Holmes: The Devil's Daughter","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/350640\/capsule_184x69.jpg","app_type":1,"friendlyURL":350640,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.4","last_played":1633125003},{"appid":570,"name":"Dota 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/570\/capsule_184x69.jpg","is_visible_in_steam_china":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":true,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.3","last_played":1407523510},{"appid":1102130,"name":"Florence","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1102130\/capsule_184x69.jpg","app_type":1,"friendlyURL":1102130,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.1","last_played":1617304409},{"appid":679990,"name":"Half-Life: C.A.G.E.D.","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/679990\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.9","last_played":1620598425},{"appid":365450,"name":"Hacknet","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/365450\/capsule_184x69.jpg","app_type":1,"friendlyURL":365450,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.9","last_played":1617446612},{"appid":409710,"name":"BioShock Remastered","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/409710\/capsule_184x69.jpg","app_type":1,"friendlyURL":409710,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.7","last_played":1602684637},{"appid":397550,"name":"Deus Ex: Revision","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/397550\/capsule_184x69.jpg","app_type":1,"friendlyURL":397550,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.5","last_played":1573731098},{"appid":397900,"name":"Business Tour - Online Multiplayer Board Game","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/397900\/capsule_184x69.jpg","app_type":1,"friendlyURL":397900,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.5","last_played":1621021675},{"appid":340,"name":"Half-Life 2: Lost Coast","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/340\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.4","last_played":1405162230},{"appid":475150,"name":"Titan Quest Anniversary Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/475150\/capsule_184x69.jpg","friendly_name":"TitanQuestAnniversaryEdition","app_type":1,"friendlyURL":"TitanQuestAnniversaryEdition","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.3","last_played":1632756057},{"appid":1128810,"name":"RISK: Global Domination","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1128810\/capsule_184x69.jpg","app_type":1,"friendlyURL":1128810,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.3","last_played":1621022838},{"appid":1284410,"name":"GWENT: The Witcher Card Game","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1284410\/capsule_184x69.jpg","app_type":1,"friendlyURL":1284410,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.3","last_played":1589992990},{"appid":214933,"name":"BioShock Infinite - Season Pass","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/214933\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":214931,"name":"BioShock Infinite: Burial at Sea - Episode 1","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/214931\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":214932,"name":"BioShock Infinite: Burial at Sea - Episode 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/214932\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":235584,"name":"Civilization V - Scrambled Continents Map Pack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/235584\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":231430,"name":"Company of Heroes 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/231430\/capsule_184x69.jpg","app_type":1,"friendlyURL":"COH2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":317850,"name":"Company of Heroes 2 - Ardennes Assault","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/317850\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":100,"name":"Counter-Strike: Condition Zero Deleted Scenes","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/100\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":6910,"name":"Deus Ex: Game of the Year Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/6910\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":1206330,"name":"Florence - Original Soundtrack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1206330\/capsule_184x69.jpg","app_type":8192,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":12240,"name":"Grand Theft Auto: Vice City","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12240\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":1288440,"name":"GWENT: The Witcher Card Game - 4k graphic assets pack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1288440\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":320,"name":"Half-Life 2: Deathmatch","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/320\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":280,"name":"Half-Life: Source","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/280\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":360,"name":"Half-Life Deathmatch: Source","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/360\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":283270,"name":"Jagged Alliance Gold","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/283270\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":1030830,"name":"Mafia II: Definitive Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1030830\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":1030830,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":525720,"name":"Minerva's Den Remastered","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/525720\/capsule_184x69.jpg","has_adult_content":1,"app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":322420,"name":"Portal Stories: Mel Soundtrack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/322420\/capsule_184x69.jpg","app_type":8192,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":611500,"name":"Quake Champions","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/611500\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":611500,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":235580,"name":"Sid Meier's Civilization V: Brave New World","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/235580\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":843380,"name":"Super Animal Royale","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/843380\/capsule_184x69.jpg","app_type":1,"friendlyURL":843380,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":520,"name":"Team Fortress 2 Beta","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/520\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":20,"name":"Team Fortress Classic","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/20\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":288160,"name":"The Room","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/288160\/capsule_184x69.jpg","app_type":1,"friendlyURL":288160,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":425580,"name":"The Room Two","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/425580\/capsule_184x69.jpg","app_type":1,"friendlyURL":425580,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":354350,"name":"This War of Mine Soundtrack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/354350\/capsule_184x69.jpg","app_type":8192,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}}];
+			var rgGames = [{"appid":730,"name":"Counter-Strike: Global Offensive","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/730\/capsule_184x69.jpg","friendly_name":"CSGO","has_adult_content":1,"is_visible_in_steam_china":1,"app_type":1,"friendlyURL":"CSGO","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":true,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1,145","last_played":1630154617},{"appid":238960,"name":"Path of Exile","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/238960\/capsule_184x69.jpg","friendly_name":"PathofExile","has_adult_content":1,"app_type":1,"friendlyURL":"PathofExile","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"217","last_played":1620078824},{"appid":271590,"name":"Grand Theft Auto V","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/271590\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":271590,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"111","last_played":1629411658},{"appid":440,"name":"Team Fortress 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/440\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":"TF2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":true,"leaderboards":true,"global_leaderboards":true},"hours_forever":"85","last_played":1584307210},{"appid":222880,"name":"Insurgency","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/222880\/capsule_184x69.jpg","app_type":1,"friendlyURL":222880,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"82","last_played":1597271818},{"appid":8930,"name":"Sid Meier's Civilization V","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8930\/capsule_184x69.jpg","app_type":1,"friendlyURL":"CivV","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"78","last_played":1617473352},{"appid":70,"name":"Half-Life","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/70\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"75","last_played":1633794291},{"appid":105600,"name":"Terraria","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/105600\/capsule_184x69.jpg","app_type":1,"friendlyURL":105600,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"73","last_played":1609525260},{"appid":12210,"name":"Grand Theft Auto IV: The Complete Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12210\/capsule_184x69.jpg","app_type":1,"friendlyURL":12210,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"46","last_played":1610834042},{"appid":632470,"name":"Disco Elysium","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/632470\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":632470,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"43","last_played":1601147377},{"appid":218620,"name":"PAYDAY 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/218620\/capsule_184x69.jpg","friendly_name":"PAYDAY2","app_type":1,"friendlyURL":"PAYDAY2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"38","last_played":1441462654},{"appid":321040,"name":"DiRT 3 Complete Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/321040\/capsule_184x69.jpg","app_type":1,"friendlyURL":321040,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"36","last_played":1606937420},{"appid":310560,"name":"DiRT Rally","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/310560\/capsule_184x69.jpg","app_type":1,"friendlyURL":310560,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"24","last_played":1607010731},{"appid":219990,"name":"Grim Dawn","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/219990\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":219990,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"23","last_played":1600108467},{"appid":221100,"name":"DayZ","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/221100\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"20","last_played":1637161852},{"appid":55230,"name":"Saints Row: The Third","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/55230\/capsule_184x69.jpg","friendly_name":"SaintsRowTheThird","has_adult_content":1,"app_type":1,"friendlyURL":"SaintsRowTheThird","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"20","last_played":1583092575},{"appid":291550,"name":"Brawlhalla","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/291550\/capsule_184x69.jpg","app_type":1,"friendlyURL":291550,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"17.8","last_played":1601666327},{"appid":49520,"name":"Borderlands 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/49520\/capsule_184x69.jpg","friendly_name":"Borderlands2","app_type":1,"friendlyURL":"Borderlands2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"16.0","last_played":1554229364},{"appid":8870,"name":"BioShock Infinite","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8870\/capsule_184x69.jpg","friendly_name":"BioShockInfinite","app_type":1,"friendlyURL":"BioShockInfinite","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"15.8","last_played":1602759233},{"appid":50130,"name":"Mafia II (Classic)","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/50130\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":"MafiaII","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"15.5","last_played":1439021568},{"appid":24240,"name":"PAYDAY: The Heist","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/24240\/capsule_184x69.jpg","friendly_name":"PAYDAYTheHeist","app_type":1,"friendlyURL":"PAYDAYTheHeist","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"15.5","last_played":1422459083},{"appid":9480,"name":"Saints Row 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/9480\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.8","last_played":1421920168},{"appid":72850,"name":"The Elder Scrolls V: Skyrim","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/72850\/capsule_184x69.jpg","friendly_name":"TheElderScrollsVSkyrim","has_adult_content":1,"app_type":1,"friendlyURL":"TheElderScrollsVSkyrim","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.6","last_played":1601473947},{"appid":945360,"name":"Among Us","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/945360\/capsule_184x69.jpg","app_type":1,"friendlyURL":945360,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.5","last_played":1633794355},{"appid":220,"name":"Half-Life 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/220\/capsule_184x69.jpg","app_type":1,"friendlyURL":"HL2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"14.1","last_played":1595344250},{"appid":20920,"name":"The Witcher 2: Assassins of Kings Enhanced Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/20920\/capsule_184x69.jpg","app_type":1,"friendlyURL":"TheWitcher2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"13.9","last_played":1578339375},{"appid":241560,"name":"The Crew","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/241560\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"13.9","last_played":1628195444},{"appid":550,"name":"Left 4 Dead 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/550\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":"L4D2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":true,"global_leaderboards":false},"hours_forever":"13.5","last_played":1512581612},{"appid":231200,"name":"Kentucky Route Zero","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/231200\/capsule_184x69.jpg","app_type":1,"friendlyURL":231200,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"13.4","last_played":1588448974},{"appid":620,"name":"Portal 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/620\/capsule_184x69.jpg","app_type":1,"friendlyURL":"Portal2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":true,"leaderboards":true,"global_leaderboards":true},"hours_forever":"12.8","last_played":1543586520},{"appid":206420,"name":"Saints Row IV","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/206420\/capsule_184x69.jpg","friendly_name":"SaintsRowIV","has_adult_content":1,"app_type":1,"friendlyURL":"SaintsRowIV","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"12.5","last_played":1431254086},{"appid":209000,"name":"Batman\u2122: Arkham Origins","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/209000\/capsule_184x69.jpg","app_type":1,"friendlyURL":209000,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"12.2","last_played":1434886221},{"appid":10,"name":"Counter-Strike","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/10\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"12.1","last_played":1633793795},{"appid":274170,"name":"Hotline Miami 2: Wrong Number","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/274170\/capsule_184x69.jpg","app_type":1,"friendlyURL":274170,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"11.8","last_played":1581175702},{"appid":44350,"name":"GRID 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/44350\/capsule_184x69.jpg","friendly_name":"GRID2","app_type":1,"friendlyURL":"GRID2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"11.8","last_played":1622055315},{"appid":24960,"name":"Battlefield: Bad Company\u2122 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/24960\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"11.5","last_played":1632241748},{"appid":7670,"name":"BioShock","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/7670\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"11.4","last_played":1550407547},{"appid":362890,"name":"Black Mesa","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/362890\/capsule_184x69.jpg","app_type":1,"friendlyURL":362890,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"10.6","last_played":1593277129},{"appid":250320,"name":"The Wolf Among Us","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/250320\/capsule_184x69.jpg","app_type":1,"friendlyURL":250320,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"10.5","last_played":1594041849},{"appid":35140,"name":"Batman: Arkham Asylum GOTY Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/35140\/capsule_184x69.jpg","app_type":1,"friendlyURL":35140,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"10.3","last_played":1433435643},{"appid":675260,"name":"Batman: The Enemy Within - The Telltale Series","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/675260\/capsule_184x69.jpg","app_type":1,"friendlyURL":675260,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.8","last_played":1631883239},{"appid":71230,"name":"Crazy Taxi","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/71230\/capsule_184x69.jpg","app_type":1,"friendlyURL":71230,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.6","last_played":1637963724},{"appid":200260,"name":"Batman: Arkham City GOTY","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/200260\/capsule_184x69.jpg","friendly_name":"BatmanArkhamCityGOTY","app_type":1,"friendlyURL":"BatmanArkhamCityGOTY","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.4","last_played":1434387736},{"appid":203160,"name":"Tomb Raider","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/203160\/capsule_184x69.jpg","friendly_name":"TombRaider","app_type":1,"friendlyURL":"TombRaider","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.3","last_played":1614006902},{"appid":287390,"name":"Metro: Last Light Redux","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/287390\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":287390,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"9.2","last_played":1500038848},{"appid":110800,"name":"L.A. Noire","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/110800\/capsule_184x69.jpg","friendly_name":"LANoireTheCompleteEdition","app_type":1,"friendlyURL":"LANoireTheCompleteEdition","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"8.5","last_played":1619180015},{"appid":498240,"name":"Batman - The Telltale Series","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/498240\/capsule_184x69.jpg","app_type":1,"friendlyURL":498240,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"8.3","last_played":1629320123},{"appid":282070,"name":"This War of Mine","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/282070\/capsule_184x69.jpg","app_type":1,"friendlyURL":282070,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"8.1","last_played":1617817386},{"appid":204100,"name":"Max Payne 3","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/204100\/capsule_184x69.jpg","friendly_name":"MaxPayne3","app_type":1,"friendlyURL":"MaxPayne3","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.9","last_played":1613386391},{"appid":286690,"name":"Metro 2033 Redux","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/286690\/capsule_184x69.jpg","app_type":1,"friendlyURL":286690,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.7","last_played":1499286996},{"appid":1586880,"name":"Essays on Empathy","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1586880\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":1586880,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.6","last_played":1631900089},{"appid":305620,"name":"The Long Dark","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/305620\/capsule_184x69.jpg","app_type":1,"friendlyURL":305620,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.5","last_played":1586547397},{"appid":1255980,"name":"Portal Reloaded","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1255980\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.2","last_played":1619362432},{"appid":205100,"name":"Dishonored","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/205100\/capsule_184x69.jpg","friendly_name":"Dishonored","app_type":1,"friendlyURL":"Dishonored","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"7.0","last_played":1453303829},{"appid":264200,"name":"One Finger Death Punch","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/264200\/capsule_184x69.jpg","app_type":1,"friendlyURL":264200,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"7.0","last_played":1434881357},{"appid":224540,"name":"Ace of Spades","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/224540\/capsule_184x69.jpg","friendly_name":"AceofSpades","app_type":1,"friendlyURL":"AceofSpades","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"7.0","last_played":1407702338},{"appid":12110,"name":"Grand Theft Auto: Vice City","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12110\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.9","last_played":1613499570},{"appid":221380,"name":"Age of Empires II (2013)","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/221380\/capsule_184x69.jpg","friendly_name":"AgeofEmpiresIIHDEdition","app_type":1,"friendlyURL":"AgeofEmpiresIIHDEdition","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.9","last_played":1511989210},{"appid":8850,"name":"BioShock 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/8850\/capsule_184x69.jpg","app_type":1,"friendlyURL":8850,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.6","last_played":1519557616},{"appid":237930,"name":"Transistor","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/237930\/capsule_184x69.jpg","app_type":1,"friendlyURL":237930,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.5","last_played":1594199357},{"appid":301910,"name":"Saints Row: Gat out of Hell","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/301910\/capsule_184x69.jpg","app_type":1,"friendlyURL":301910,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.2","last_played":1424613677},{"appid":213670,"name":"South Park\u2122: The Stick of Truth\u2122","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/213670\/capsule_184x69.jpg","app_type":1,"friendlyURL":213670,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.2","last_played":1602275334},{"appid":464060,"name":"RUINER","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/464060\/capsule_184x69.jpg","app_type":1,"friendlyURL":464060,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"6.0","last_played":1602085112},{"appid":466300,"name":"Planescape: Torment: Enhanced Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/466300\/capsule_184x69.jpg","app_type":1,"friendlyURL":466300,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.8","last_played":1614513972},{"appid":589780,"name":"The Red Strings Club","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/589780\/capsule_184x69.jpg","app_type":1,"friendlyURL":589780,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.5","last_played":1604100391},{"appid":420,"name":"Half-Life 2: Episode Two","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/420\/capsule_184x69.jpg","app_type":1,"friendlyURL":"HL2:EP2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.5","last_played":1404681227},{"appid":380,"name":"Half-Life 2: Episode One","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/380\/capsule_184x69.jpg","app_type":1,"friendlyURL":"HL2:EP1","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.5","last_played":1405600596},{"appid":424840,"name":"Little Nightmares","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/424840\/capsule_184x69.jpg","app_type":1,"friendlyURL":424840,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.4","last_played":1629411344},{"appid":409720,"name":"BioShock 2 Remastered","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/409720\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":409720,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.3","last_played":1603576089},{"appid":80,"name":"Counter-Strike: Condition Zero","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/80\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.2","last_played":1588271260},{"appid":219150,"name":"Hotline Miami","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/219150\/capsule_184x69.jpg","friendly_name":"HotlineMiami","app_type":1,"friendlyURL":"HotlineMiami","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"4.1","last_played":1635618408},{"appid":22380,"name":"Fallout: New Vegas","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/22380\/capsule_184x69.jpg","app_type":1,"friendlyURL":"Fallout:NewVegas","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"3.7","last_played":1619807482},{"appid":400,"name":"Portal","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/400\/capsule_184x69.jpg","app_type":1,"friendlyURL":"Portal","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"3.7","last_played":1451495123},{"appid":274290,"name":"Gods Will Be Watching","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/274290\/capsule_184x69.jpg","app_type":1,"friendlyURL":274290,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"3.6","last_played":1605804516},{"appid":20900,"name":"The Witcher: Enhanced Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/20900\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.8","last_played":1594463990},{"appid":225840,"name":"Sven Co-op","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/225840\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.5","last_played":1613843339},{"appid":300,"name":"Day of Defeat: Source","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/300\/capsule_184x69.jpg","app_type":1,"friendlyURL":"DOD:S","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.2","last_played":1408702567},{"appid":50,"name":"Half-Life: Opposing Force","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/50\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.2","last_played":1586555707},{"appid":12360,"name":"FlatOut: Ultimate Carnage","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12360\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"2.1","last_played":1616444526},{"appid":638230,"name":"Journey","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/638230\/capsule_184x69.jpg","app_type":1,"friendlyURL":638230,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.8","last_played":1632257452},{"appid":113200,"name":"The Binding of Isaac","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/113200\/capsule_184x69.jpg","app_type":1,"friendlyURL":"BindingOfIsaac","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.8","last_played":1604156209},{"appid":391540,"name":"Undertale","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/391540\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.8","last_played":1625244327},{"appid":1285670,"name":"Post Void","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1285670\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":1285670,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":true,"global_leaderboards":true},"hours_forever":"1.7","last_played":1635677464},{"appid":317400,"name":"Portal Stories: Mel","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/317400\/capsule_184x69.jpg","app_type":1,"friendlyURL":317400,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.6","last_played":1548164317},{"appid":17450,"name":"Dragon Age: Origins","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/17450\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.5","last_played":1413569887},{"appid":130,"name":"Half-Life: Blue Shift","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/130\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.4","last_played":1526644706},{"appid":350640,"name":"Sherlock Holmes: The Devil's Daughter","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/350640\/capsule_184x69.jpg","app_type":1,"friendlyURL":350640,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.4","last_played":1633125003},{"appid":570,"name":"Dota 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/570\/capsule_184x69.jpg","is_visible_in_steam_china":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":true,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.3","last_played":1407523510},{"appid":288160,"name":"The Room","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/288160\/capsule_184x69.jpg","app_type":1,"friendlyURL":288160,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours":"1.1","hours_forever":"1.1","last_played":1640293867},{"appid":1102130,"name":"Florence","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1102130\/capsule_184x69.jpg","app_type":1,"friendlyURL":1102130,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"1.1","last_played":1617304409},{"appid":679990,"name":"Half-Life: C.A.G.E.D.","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/679990\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.9","last_played":1620598425},{"appid":365450,"name":"Hacknet","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/365450\/capsule_184x69.jpg","app_type":1,"friendlyURL":365450,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.9","last_played":1617446612},{"appid":409710,"name":"BioShock Remastered","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/409710\/capsule_184x69.jpg","app_type":1,"friendlyURL":409710,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.7","last_played":1602684637},{"appid":397550,"name":"Deus Ex: Revision","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/397550\/capsule_184x69.jpg","app_type":1,"friendlyURL":397550,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.5","last_played":1573731098},{"appid":397900,"name":"Business Tour - Online Multiplayer Board Game","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/397900\/capsule_184x69.jpg","app_type":1,"friendlyURL":397900,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.5","last_played":1621021675},{"appid":340,"name":"Half-Life 2: Lost Coast","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/340\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.4","last_played":1405162230},{"appid":1128810,"name":"RISK: Global Domination","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1128810\/capsule_184x69.jpg","app_type":1,"friendlyURL":1128810,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.3","last_played":1621022838},{"appid":475150,"name":"Titan Quest Anniversary Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/475150\/capsule_184x69.jpg","friendly_name":"TitanQuestAnniversaryEdition","app_type":1,"friendlyURL":"TitanQuestAnniversaryEdition","availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.3","last_played":1632756057},{"appid":1284410,"name":"GWENT: The Witcher Card Game","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1284410\/capsule_184x69.jpg","app_type":1,"friendlyURL":1284410,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false},"hours_forever":"0.3","last_played":1589992990},{"appid":214933,"name":"BioShock Infinite - Season Pass","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/214933\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":214931,"name":"BioShock Infinite: Burial at Sea - Episode 1","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/214931\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":214932,"name":"BioShock Infinite: Burial at Sea - Episode 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/214932\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":235584,"name":"Civilization V - Scrambled Continents Map Pack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/235584\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":231430,"name":"Company of Heroes 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/231430\/capsule_184x69.jpg","app_type":1,"friendlyURL":"COH2","availStatLinks":{"achievements":true,"global_achievements":true,"stats":true,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":317850,"name":"Company of Heroes 2 - Ardennes Assault","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/317850\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":100,"name":"Counter-Strike: Condition Zero Deleted Scenes","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/100\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":6910,"name":"Deus Ex: Game of the Year Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/6910\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":1206330,"name":"Florence - Original Soundtrack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1206330\/capsule_184x69.jpg","app_type":8192,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":12240,"name":"Grand Theft Auto: Vice City","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/12240\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":1288440,"name":"GWENT: The Witcher Card Game - 4k graphic assets pack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1288440\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":320,"name":"Half-Life 2: Deathmatch","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/320\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":280,"name":"Half-Life: Source","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/280\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":360,"name":"Half-Life Deathmatch: Source","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/360\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":283270,"name":"Jagged Alliance Gold","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/283270\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":1030830,"name":"Mafia II: Definitive Edition","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/1030830\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":1030830,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":525720,"name":"Minerva's Den Remastered","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/525720\/capsule_184x69.jpg","has_adult_content":1,"app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":505230,"name":"Pathologic 2","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/505230\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":505230,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":322420,"name":"Portal Stories: Mel Soundtrack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/322420\/capsule_184x69.jpg","app_type":8192,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":611500,"name":"Quake Champions","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/611500\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":611500,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":235580,"name":"Sid Meier's Civilization V: Brave New World","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/235580\/capsule_184x69.jpg","app_type":32,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":843380,"name":"Super Animal Royale","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/843380\/capsule_184x69.jpg","app_type":1,"friendlyURL":843380,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":520,"name":"Team Fortress 2 Beta","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/520\/capsule_184x69.jpg","app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":20,"name":"Team Fortress Classic","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/20\/capsule_184x69.jpg","has_adult_content":1,"app_type":1,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":425580,"name":"The Room Two","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/425580\/capsule_184x69.jpg","app_type":1,"friendlyURL":425580,"availStatLinks":{"achievements":true,"global_achievements":true,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}},{"appid":354350,"name":"This War of Mine Soundtrack","logo":"https:\/\/cdn.akamai.steamstatic.com\/steam\/apps\/354350\/capsule_184x69.jpg","app_type":8192,"friendlyURL":false,"availStatLinks":{"achievements":false,"global_achievements":false,"stats":false,"gcpd":false,"leaderboards":false,"global_leaderboards":false}}];
 		var rgChangingGames = [];
 		var offerClientUninstall = false;
 		var profileLink = "https://steamcommunity.com/id/thegattfather";
 		var personaName = "Gatt";
 		var tab = "all";
-		var sessionID = "c9a1617f328a57efeddf2c74";
+		var sessionID = "c020c70b7c6f73a2f88527da";
 
 		$J( function() {
 			if( tab == 'all' || tab == 'recent' || tab == 'perfect' )
@@ -5984,26 +6020,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 </div><div class="popup_block2" id="stats_dropdown_219150" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/HotlineMiami/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/HotlineMiami/achievements/"><h5>Global Başarımlar</h5></a>
 	</div>
-</div><div class="popup_block2" id="links_dropdown_400" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/400">
-			<h5>Mağaza Sayfasını Ziyaret Et</h5>
-		</a>
-				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/400">
-			<h5>Forumları Ziyaret Et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Portal">
-			<h5>Topluluk Gruplarını Bul</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/400">
-			<h5>Resmî internet sitesini ziyaret et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=400">
-			<h5>İlgili haberleri oku</h5>
-		</a>
-			</div>
-</div><div class="popup_block2" id="stats_dropdown_400" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/Portal/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/Portal/achievements/"><h5>Global Başarımlar</h5></a>
-	</div>
 </div><div class="popup_block2" id="links_dropdown_22380" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/22380">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
@@ -6023,6 +6039,26 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 			</div>
 </div><div class="popup_block2" id="stats_dropdown_22380" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/Fallout:NewVegas/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/Fallout:NewVegas/achievements/"><h5>Global Başarımlar</h5></a>
+	</div>
+</div><div class="popup_block2" id="links_dropdown_400" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/400">
+			<h5>Mağaza Sayfasını Ziyaret Et</h5>
+		</a>
+				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/400">
+			<h5>Forumları Ziyaret Et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Portal">
+			<h5>Topluluk Gruplarını Bul</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/400">
+			<h5>Resmî internet sitesini ziyaret et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=400">
+			<h5>İlgili haberleri oku</h5>
+		</a>
+			</div>
+</div><div class="popup_block2" id="stats_dropdown_400" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/Portal/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/Portal/achievements/"><h5>Global Başarımlar</h5></a>
 	</div>
 </div><div class="popup_block2" id="links_dropdown_274290" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/274290">
@@ -6152,23 +6188,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 </div><div class="popup_block2" id="stats_dropdown_638230" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/638230/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/638230/achievements/"><h5>Global Başarımlar</h5></a>
 	</div>
-</div><div class="popup_block2" id="links_dropdown_391540" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/391540">
-			<h5>Mağaza Sayfasını Ziyaret Et</h5>
-		</a>
-				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/391540">
-			<h5>Forumları Ziyaret Et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Undertale">
-			<h5>Topluluk Gruplarını Bul</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/391540">
-			<h5>Resmî internet sitesini ziyaret et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=391540">
-			<h5>İlgili haberleri oku</h5>
-		</a>
-			</div>
 </div><div class="popup_block2" id="links_dropdown_113200" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/113200">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
@@ -6189,6 +6208,23 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 </div><div class="popup_block2" id="stats_dropdown_113200" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/BindingOfIsaac/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/BindingOfIsaac/achievements/"><h5>Global Başarımlar</h5></a>
 	</div>
+</div><div class="popup_block2" id="links_dropdown_391540" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/391540">
+			<h5>Mağaza Sayfasını Ziyaret Et</h5>
+		</a>
+				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/391540">
+			<h5>Forumları Ziyaret Et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Undertale">
+			<h5>Topluluk Gruplarını Bul</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/391540">
+			<h5>Resmî internet sitesini ziyaret et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=391540">
+			<h5>İlgili haberleri oku</h5>
+		</a>
+			</div>
 </div><div class="popup_block2" id="links_dropdown_1285670" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/1285670">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
@@ -6303,6 +6339,26 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 </div><div class="popup_block2" id="gcpd_dropdown_570" style="display: none;"><div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div><div class="popup_body2 popup_menu2 shadow_content">
 <a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/gcpd/570/"><h5>Gatt Kişisel Oyun Verisi</h5></a>
 </div>
+</div><div class="popup_block2" id="links_dropdown_288160" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/288160">
+			<h5>Mağaza Sayfasını Ziyaret Et</h5>
+		</a>
+				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/288160">
+			<h5>Forumları Ziyaret Et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=The%20Room">
+			<h5>Topluluk Gruplarını Bul</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/288160">
+			<h5>Resmî internet sitesini ziyaret et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=288160">
+			<h5>İlgili haberleri oku</h5>
+		</a>
+			</div>
+</div><div class="popup_block2" id="stats_dropdown_288160" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/288160/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/288160/achievements/"><h5>Global Başarımlar</h5></a>
+	</div>
 </div><div class="popup_block2" id="links_dropdown_1102130" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/1102130">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
@@ -6437,26 +6493,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 			<h5>İlgili haberleri oku</h5>
 		</a>
 			</div>
-</div><div class="popup_block2" id="links_dropdown_475150" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/475150">
-			<h5>Mağaza Sayfasını Ziyaret Et</h5>
-		</a>
-				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/475150">
-			<h5>Forumları Ziyaret Et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Titan%20Quest%20Anniversary%20Edition">
-			<h5>Topluluk Gruplarını Bul</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/475150">
-			<h5>Resmî internet sitesini ziyaret et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=475150">
-			<h5>İlgili haberleri oku</h5>
-		</a>
-			</div>
-</div><div class="popup_block2" id="stats_dropdown_475150" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/TitanQuestAnniversaryEdition/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/TitanQuestAnniversaryEdition/achievements/"><h5>Global Başarımlar</h5></a>
-	</div>
 </div><div class="popup_block2" id="links_dropdown_1128810" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/1128810">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
@@ -6476,6 +6512,26 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 			</div>
 </div><div class="popup_block2" id="stats_dropdown_1128810" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/1128810/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/1128810/achievements/"><h5>Global Başarımlar</h5></a>
+	</div>
+</div><div class="popup_block2" id="links_dropdown_475150" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/475150">
+			<h5>Mağaza Sayfasını Ziyaret Et</h5>
+		</a>
+				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/475150">
+			<h5>Forumları Ziyaret Et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Titan%20Quest%20Anniversary%20Edition">
+			<h5>Topluluk Gruplarını Bul</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/475150">
+			<h5>Resmî internet sitesini ziyaret et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=475150">
+			<h5>İlgili haberleri oku</h5>
+		</a>
+			</div>
+</div><div class="popup_block2" id="stats_dropdown_475150" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/TitanQuestAnniversaryEdition/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/TitanQuestAnniversaryEdition/achievements/"><h5>Global Başarımlar</h5></a>
 	</div>
 </div><div class="popup_block2" id="links_dropdown_1284410" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/1284410">
@@ -6792,6 +6848,26 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 			<h5>İlgili haberleri oku</h5>
 		</a>
 			</div>
+</div><div class="popup_block2" id="links_dropdown_505230" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/505230">
+			<h5>Mağaza Sayfasını Ziyaret Et</h5>
+		</a>
+				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/505230">
+			<h5>Forumları Ziyaret Et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=Pathologic%202">
+			<h5>Topluluk Gruplarını Bul</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/505230">
+			<h5>Resmî internet sitesini ziyaret et</h5>
+		</a>
+		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=505230">
+			<h5>İlgili haberleri oku</h5>
+		</a>
+			</div>
+</div><div class="popup_block2" id="stats_dropdown_505230" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
+	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/505230/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/505230/achievements/"><h5>Global Başarımlar</h5></a>
+	</div>
 </div><div class="popup_block2" id="links_dropdown_322420" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/322420">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
@@ -6900,26 +6976,6 @@ Kişisel Oyun Verisi<img src="https://community.akamai.steamstatic.com/public/im
 			<h5>İlgili haberleri oku</h5>
 		</a>
 			</div>
-</div><div class="popup_block2" id="links_dropdown_288160" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/288160">
-			<h5>Mağaza Sayfasını Ziyaret Et</h5>
-		</a>
-				<a class="popup_menu_item2 tight" href="https://store.steampowered.com/forum/288160">
-			<h5>Forumları Ziyaret Et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://steamcommunity.com/search/groups/?text=The%20Room">
-			<h5>Topluluk Gruplarını Bul</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/appofficialsite/288160">
-			<h5>Resmî internet sitesini ziyaret et</h5>
-		</a>
-		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/news/?appids=288160">
-			<h5>İlgili haberleri oku</h5>
-		</a>
-			</div>
-</div><div class="popup_block2" id="stats_dropdown_288160" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
-	<a class="popup_menu_item2 tight" href="https://steamcommunity.com/id/thegattfather/stats/288160/?tab=achievements"><h5>Gatt adlı kullanıcının başarımları</h5></a><a class="popup_menu_item2 tight" href="https://steamcommunity.com/stats/288160/achievements/"><h5>Global Başarımlar</h5></a>
-	</div>
 </div><div class="popup_block2" id="links_dropdown_425580" style="display: none;">	<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>	<div class="popup_body2 popup_menu2 shadow_content">
 		<a class="popup_menu_item2 tight" href="https://store.steampowered.com/app/425580">
 			<h5>Mağaza Sayfasını Ziyaret Et</h5>
