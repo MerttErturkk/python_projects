@@ -1,4 +1,4 @@
-# =============================================================================
+#%% ============================================================================
 # Dict which represents the genetic code.
 # the keys are codons and the values are amino acids.
 # =============================================================================
@@ -20,26 +20,20 @@ gencode = {
     'TAC':'Y', 'TAT':'Y', 'TAA':'_', 'TAG':'_',
     'TGC':'C', 'TGT':'C', 'TGA':'_', 'TGG':'W'}
 
-# =============================================================================
+#%% ===========================================================================
 # Functions
 # =============================================================================
-def rho_to_protein(content):
-    
-   
+def rho_to_protein(content):    
     rho=[]
     for i in range(0, int(len(content)/3)):
         codon = content[i*3:i*3+3]
         rho.append(codon)
-        
-        
+                
     protein=""
-
     for i in rho:
         for j in gencode:
             if i==j:
-                protein+=gencode[j]
-            
-    
+                protein+=gencode[j]   
     return protein
 
 def list_to_string(rho_as_list):
@@ -48,10 +42,10 @@ def list_to_string(rho_as_list):
         str_content += i
     return str_content
     
-
 def compare_protein(prot_1,prot_2):
     prot_1_list=[]
     prot_2_list=[]
+    
     for prot in prot_1:
         prot_1_list.append(prot)
     for prot in prot_2:
@@ -65,15 +59,15 @@ def compare_protein(prot_1,prot_2):
                   +prot_1_list[iteration]+">>" +prot_2_list[iteration])
             mutation_count +=1
         iteration +=1
-        
-        
+
+    
     if mutation_count >3:
         print("#\n#\n Most likely a frame shift mutation... ")
     if mutation_count ==0:
         print("Possible silent mutation or no mutation at all. ")
     print ("----------------------------------------------------------------")
     
-# =============================================================================
+#%% ===========================================================================
 # Opens file and formats the data. 
 # =============================================================================
 
@@ -83,9 +77,9 @@ rho_content=var1.replace("\n","")
 
 given_protein = rho_to_protein(rho_content)
             
-# =============================================================================
+#%% =========================================================================
 # Turns rho string into a list for easier operation. And produces copies.
-# =============================================================================
+# ===========================================================================
 rho_list=[]
 for nuc in rho_content:
     rho_list.append(nuc)
@@ -124,7 +118,7 @@ new_protein_2=rho_to_protein(copy2_str)
 new_protein_3=rho_to_protein(copy3_str)
 new_protein_4=rho_to_protein(copy4_str)
 
-# =============================================================================
+#%% ===========================================================================
 # Prints the result of comparison of proteins.
 # =============================================================================
 
