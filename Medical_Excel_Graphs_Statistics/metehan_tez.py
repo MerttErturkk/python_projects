@@ -7,15 +7,6 @@ Created on Sat Nov  6 19:19:35 2021
 import pandas as pd
 import matplotlib.pyplot as plt
 plt.rcParams['font.size'] = '5'
-#%%
-df = pd.read_excel('sbie.xlsx')
-etkenler = df["ETKEN"].value_counts()
-etkenler.plot.bar()
-#%%
-klebsi = df[df["ETKEN"]=="KLEBSİELLA PNEUMONİAE"]
-kleb_alan = klebsi["ALAN"].value_counts()
-#%%
-kleb_alan.plot.pie()
 
 #%%#######################################################
 
@@ -44,6 +35,17 @@ plt.show()
 plt.savefig('evre_melf.png', dpi=1000)
 
 
+
+
+#%%###########################################################
+df = pd.read_excel('sbie.xlsx')
+etkenler = df["ETKEN"].value_counts()
+etkenler.plot.bar()
+#%%
+klebsi = df[df["ETKEN"]=="KLEBSİELLA PNEUMONİAE"]
+kleb_alan = klebsi["ALAN"].value_counts()
+#%%
+kleb_alan.plot.pie()
 
 
 
