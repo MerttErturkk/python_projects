@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-df = pd.read_excel("yatış günü.xlsx")
+df = pd.read_excel(r"C:/Users/mertt/github/Python_Projects/Medical_Stats_&_Plots/yatış günü.xlsx")
 
 
 df["başvuru"]= df["başvuru (yıl)"].astype(str)+"-"+ df["başvuru (ay)"].astype(str)+"-"+ df["BAŞVURU  GÜN"].astype(str)
