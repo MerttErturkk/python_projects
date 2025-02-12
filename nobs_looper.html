@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Ensure touch screen and responsive scaling -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>Guitar Looper</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f0f0f0;
+      text-align: center;
+      padding: 10px;
+    }
+    /* Container for the slots, using flex for horizontal placement */
+    #slotsContainer {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+    /* Each slot: initially grey. Recording state will be red. */
+    .slot {
+      flex: 1;
+      margin: 5px;
+      padding: 20px;
+      height: 120px;
+      background-color: grey;
+      border-radius: 8px;
+      border: 2px solid #555;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      color: white;
+      user-select: none;
+    }
+    /* Highlight for the currently selected slot */
+    .slot.selected {
+      border: 4px solid #2196F3;
+    }
+    /* Big record/stop button styling */
+    #recordButton {
+      width: 80%;
+      max-width: 400px;
+      margin: 30px auto;
+      padding: 20px;
+      font-size: 24px;
+      border: none;
+      border-radius: 50px;
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+    }
+    /* On touch devices, make sure buttons feel big enough */
+    #recordButton:active {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>Guitar Looper</h1>
+  <div id="slotsContainer">
+    <div class="slot" data-slot="0">Slot 1</div>
+    <div class="slot" data-slot="1">Slot 2</div>
+    <div class="slot" data-slot="2">Slot 3</div>
+  </div>
+  <button id="recordButton">Record / Stop</button>
+
+  <script>
+    // Global variable to hold the microphone stream once permission is granted.
+    let globalStream = null;
+
+    // Array to hold the three slot objects
+    const slots = [
+      { state: 'empty', audio: null, recorder: null, chunks: [] },
+      { state: 'empty', audio: null, recorder: null, chunks: [] },
+      { state: 'empty', audio: null, recorder: null, chunks: [] }
+    ];
+    // Currently selected slot (default is the first slot)
+    let selectedSlot = 0;
+
+    // Update UI for a given slot index based on its state
+    function updateSlotUI(index) {
+      const slotEl = document.querySelector(`.slot[data-slot="${index}"]`);
+      const slot = slots[index];
+      slotEl.style.backgroundColor = slot.state === 'recording' ? 'red' : 'grey';
+    }
+
+    // Update the UI for slot selection (add/remove "selected" class)
+    function updateSelectionUI() {
+      document.querySelectorAll('.slot').forEach(el => {
+        const idx = parseInt(el.getAttribute('data-slot'), 10);
+        el.classList.toggle('selected', idx === selectedSlot);
+      });
+    }
+
+    // Select a slot by index and update the UI accordingly
+    function selectSlot(index) {
+      selectedSlot = index;
+      updateSelectionUI();
+    }
+
+    // Allow clicking on a slot to select it
+    document.querySelectorAll('.slot').forEach(el => {
+      el.addEventListener('click', function() {
+        selectSlot(parseInt(this.getAttribute('data-slot'), 10));
+      });
+    });
+    updateSelectionUI();
+
+    // The record/stop button event handler
+    const recordButton = document.getElementById('recordButton');
+    recordButton.addEventListener('click', toggleRecord);
+
+    // Toggle recording for the selected slot
+    function toggleRecord() {
+      const slot = slots[selectedSlot];
+      if (slot.state !== 'recording') {
+        // Stop any existing loop before starting a new recording
+        if (slot.audio) {
+          slot.audio.pause();
+          slot.audio = null;
+        }
+        startRecording(selectedSlot);
+      } else {
+        stopRecording(selectedSlot);
+      }
+    }
+
+    // Start recording for the given slot index using the reusable globalStream.
+    function startRecording(index) {
+      const slot = slots[index];
+      slot.state = 'recording';
+      updateSlotUI(index);
+
+      // Function to begin the MediaRecorder with the stream.
+      function beginRecording(stream) {
+        // Set a high-quality audio configuration.
+        let options = { mimeType: 'audio/webm;codecs=opus', audioBitsPerSecond: 256000 };
+        if (!MediaRecorder.isTypeSupported(options.mimeType)) {
+          options = { mimeType: 'audio/webm', audioBitsPerSecond: 256000 };
+        }
+        const mediaRecorder = new MediaRecorder(stream, options);
+        slot.recorder = mediaRecorder;
+        slot.chunks = [];
+
+        mediaRecorder.ondataavailable = function(e) {
+          if (e.data && e.data.size > 0) {
+            slot.chunks.push(e.data);
+          }
+        };
+
+        mediaRecorder.onstop = function() {
+          // Create a Blob from the recorded chunks and an object URL for playback.
+          const blob = new Blob(slot.chunks, { type: options.mimeType });
+          const audioURL = URL.createObjectURL(blob);
+          const audio = new Audio(audioURL);
+          audio.loop = true;
+          slot.audio = audio;
+          slot.state = 'playing';
+          updateSlotUI(index);
+          audio.play();
+          // Note: the globalStream is not stopped, so permission is retained.
+        };
+
+        mediaRecorder.start();
+      }
+
+      // If we already have a global stream, reuse it; otherwise request microphone access.
+      if (globalStream) {
+        beginRecording(globalStream);
+      } else {
+        navigator.mediaDevices.getUserMedia({
+          audio: {
+            sampleRate: { ideal: 48000 },
+            channelCount: { ideal: 2 },
+            echoCancellation: false,
+            noiseSuppression: false,
+            autoGainControl: false
+          }
+        })
+        .then(stream => {
+          globalStream = stream;
+          beginRecording(globalStream);
+        })
+        .catch(err => {
+          console.error('Error accessing microphone: ' + err);
+          alert('Microphone access error: ' + err);
+          slot.state = 'empty';
+          updateSlotUI(index);
+        });
+      }
+    }
+
+    // Stop recording for the given slot index
+    function stopRecording(index) {
+      const slot = slots[index];
+      if (slot.recorder && slot.state === 'recording') {
+        slot.recorder.stop();
+      }
+    }
+
+    // Listen for key events:
+    // - Space bar toggles record/stop
+    // - Keys 1, 2, 3 select the corresponding slot
+    document.addEventListener('keydown', function(e) {
+      if (e.key === ' ') {
+        e.preventDefault();
+        toggleRecord();
+      }
+      if (['1','2','3'].includes(e.key)) {
+        selectSlot(parseInt(e.key, 10) - 1);
+      }
+    });
+  </script>
+</body>
+</html>
