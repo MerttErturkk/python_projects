@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>BPM Button</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        text-align: center;
+      }
+
+      #bpm-button {
+        background-color: #00bcd4;
+        border: none;
+        color: white;
+        padding: 180px 60px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 24px;
+        margin: 20px;
+        cursor: pointer;
+        border-radius: 8px;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+      }
+
+      #bpm-button:hover {
+        background-color: #0097a7;
+      }
+
+      #bpm-output {
+        margin-top: 20px;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="bpm-button">Click me to record BPM</button>
+    <div id="bpm-output"></div>
+    <script>
+      let clicks = [];
+      let lastClickTime = 0;
+      const bpmButton = document.getElementById("bpm-button");
+      const bpmOutput = document.getElementById("bpm-output");
+      bpmButton.addEventListener("click", () => {
+        const currentTime = new Date().getTime();
+        const timeSinceLastClick = lastClickTime ? currentTime - lastClickTime : 0;
+        lastClickTime = currentTime;
+        clicks.push(timeSinceLastClick);
+        if (clicks.length === 10) {
+          const totalMs = clicks.reduce((acc, curr) => acc + curr, 0);
+          const avgMs = totalMs / clicks.length;
+          const bpm = Math.round((60 / avgMs) * 1000);
+          const bpmDisplay = `BPM: ${bpm}`;
+          bpmOutput.innerHTML += `<br>${bpmDisplay}`;
+          clicks = [];
+        }
+      });
+    </script>
+  </body>
+</html>
